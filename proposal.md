@@ -1,0 +1,61 @@
+Final Proposal
+================
+Siyan Wen
+2023-11-11
+
+## Group Members:
+
+Wenyu Zhang (wz2675) Wenwen Li (wl2926) Siyan Wen (sw3866) Linshen Cai
+(lc3807)
+
+## Title:
+
+Evaluation of Wine from Multiple Perspectives
+
+## Motivation:
+
+In the rich and varied world of wine, selecting the perfect bottle is an
+art form guided by personal taste and often influenced by the collective
+voice of ratings. However, wine ratings and scores, often seen as
+benchmarks of quality, can serve as a compass for selection. The
+motivation for analyzing wine evaluation and price datasets is
+twofold:  
+- Explore the correlation between wine rating and their prices,
+providing a data-driven approach to understanding the valuation of
+wines.  
+- To develop an analysis that can illustrate the relationship between
+ratings of wines and the price, thereby assisting consumers in
+discovering good wines.
+
+## Final Products:
+
+A well-formulated report and website includes plots, tables that helps
+explain the ideas and issues we observed during cleaning up the dataset
+and analysis for each elements inside this website.
+
+## Data Source:
+
+<https://www.kaggle.com/datasets/budnyak/wine-rating-and-price/code>
+
+## Analyses:
+
+Through the use of a linear model, we will examine the relationship
+between wine price, wine rate, and production year. Also,
+
+## Challenges:
+
+- Merge the datasets
+- Making website
+- Geographic representation
+
+## Timeline:
+
+- 11/08/2023: Team registration and proposal
+- 11/13/2023: Project Review meeting
+- 11/15/2023: Project Review meeting
+- 11/17/2023: Project Review meeting (with TA)
+- 11/20/2023: Project Review meeting
+- 11/27/2023: Project Review meeting
+- 11/29/2023: Project Review meeting
+- 12/01/2023-12/05/2023: Report
+- 12/05/2023-12/08/2023: Making website
